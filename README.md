@@ -1,0 +1,2 @@
+# ScriptBash
+Tpe admin-sys
